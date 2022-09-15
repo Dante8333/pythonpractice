@@ -10,5 +10,5 @@ def armstrong(num):
     if x == sum1:
         print("given number is armstrong number:",x)
     else:
-        print("given number is armstrong nummber:",x)
+        print("given number is not armstrong nummber:",x)
 armstrong(num= int(input('enter value: '))) 
